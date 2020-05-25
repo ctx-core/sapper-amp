@@ -2,7 +2,6 @@
 	"name": "@ctx-core/sapper-amp",
 	"version": "2.0.33",
 	"description": "@ctx-core Svelte Sapper with Google amp support",
-	"type": "module",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
