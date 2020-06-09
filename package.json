@@ -13,10 +13,10 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"svelte": "^3.23.0"
+		"svelte": "^3.23.1"
 	},
 	"devDependencies": {
-		"typescript": "^3.9.3"
+		"typescript": "^3.9.5"
 	},
 	"gitHead": "e2842a2080eb0b4d4822fea89a44bab38b6ad0db",
 	"homepage": "https://github.com/ctx-core/sapper-amp#readme"
