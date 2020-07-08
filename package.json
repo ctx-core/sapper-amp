@@ -18,6 +18,6 @@
 	"devDependencies": {
 		"typescript": "^3.9.6"
 	},
-	"gitHead": "e2842a2080eb0b4d4822fea89a44bab38b6ad0db",
+	"gitHead": "968b0d78400e9ae66ecd80d845d11fe950c3921d",
 	"homepage": "https://github.com/ctx-core/sapper-amp#readme"
 }
