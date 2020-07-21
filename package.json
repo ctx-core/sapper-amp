@@ -16,7 +16,7 @@
 		"svelte": "^3.24.0"
 	},
 	"devDependencies": {
-		"typescript": "^3.9.6"
+		"typescript": "^3.9.7"
 	},
 	"gitHead": "968b0d78400e9ae66ecd80d845d11fe950c3921d",
 	"homepage": "https://github.com/ctx-core/sapper-amp#readme"
