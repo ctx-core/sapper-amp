@@ -7,7 +7,7 @@
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "tsc -b",
 		"prepublishOnly": "npm run build",
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"exec": "$@"
 	},
 	"publishConfig": {
 		"access": "public"
@@ -18,6 +18,6 @@
 	"devDependencies": {
 		"typescript": "^4.0.2"
 	},
-	"gitHead": "a1ddc6184165dbd79d211c5272a8e8bc45af47b7",
+	"gitHead": "f6915c2c889274d6075f3b53e732233b0a1cfcbf",
 	"homepage": "https://github.com/ctx-core/sapper-amp#readme"
 }
