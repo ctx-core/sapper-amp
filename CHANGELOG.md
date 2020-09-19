@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 3.0.0
+
+### Major Changes
+
+- Typescript strict checking
+
 ## 2.0.54
 
 ### Patch Changes
