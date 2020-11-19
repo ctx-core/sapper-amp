@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 3.0.11
+
+### Patch Changes
+
+- typescript: ^4.0.5 -> ^4.1.2
+
 ## 3.0.10
 
 ### Patch Changes
