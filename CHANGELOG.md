@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 4.1.1
+
+### Patch Changes
+
+- svelte: 3.32.1 -> 3.32.2
+
 ## 4.1.0
 
 ### Minor Changes
