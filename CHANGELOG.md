@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 4.1.11
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+
 ## 4.1.10
 
 ### Patch Changes
