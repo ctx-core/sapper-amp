@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 4.1.12
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+
 ## 4.1.11
 
 ### Patch Changes
