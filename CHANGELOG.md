@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 4.1.13
+
+### Patch Changes
+
+- version bump
+
 ## 4.1.12
 
 ### Patch Changes
