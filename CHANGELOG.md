@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 4.2.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
 ## 4.1.19
 
 ### Patch Changes
