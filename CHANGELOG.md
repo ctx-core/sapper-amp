@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 4.2.1
+
+### Patch Changes
+
+- fix: target: 2018: nodejs compatability
+
 ## 4.2.0
 
 ### Minor Changes
