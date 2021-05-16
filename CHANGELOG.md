@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 4.2.2
+
+### Patch Changes
+
+- .npmignore: + ~
+
 ## 4.2.1
 
 ### Patch Changes
