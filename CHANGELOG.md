@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 4.3.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
 ## 4.2.3
 
 ### Patch Changes
