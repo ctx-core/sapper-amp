@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 4.4.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
 ## 4.3.1
 
 ### Patch Changes
