@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 4.4.1
+
+### Patch Changes
+
+- fix: npm run symlink
+
 ## 4.4.0
 
 ### Minor Changes
