@@ -1,1 +1,1 @@
-/home/brian/work/ctx-core/ctx-core/packages/sapper-amp/src/./ui/Amp_Layout.svelte
+../../src/ui/Amp_Layout.svelte
