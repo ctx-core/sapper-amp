@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 4.4.4
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+
 ## 4.4.3
 
 ### Patch Changes

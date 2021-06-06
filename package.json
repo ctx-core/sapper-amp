@@ -1,11 +1,11 @@
 {
 	"name": "@ctx-core/sapper-amp",
-	"version": "4.4.3",
+	"version": "4.4.4",
 	"description": "@ctx-core Svelte Sapper with Google amp support",
 	"homepage": "https://github.com/ctx-core/sapper-amp#readme",
 	"scripts": {
 		"build": "npm run clean && npm run compile && npm run symlink",
-		"clean": "rm -f tsconfig.tsbuildinfo",
+		"clean": "rm -f tsconfig.tsbuildinfo && rm -f dist/**/*.js && rm -f dist/**/*.d.ts && rm -f dist/**/*.map",
 		"compile": "./node_modules/.bin/tsc -b .",
 		"symlink": "./node_modules/.bin/symlink_src_assets_to_dist .",
 		"exec": "$@",
@@ -18,7 +18,7 @@
 		"svelte": "3.38.2"
 	},
 	"devDependencies": {
-		"@ctx-core/ctx-core-package-tools": "workspace:^7.0.12",
+		"@ctx-core/ctx-core-package-tools": "workspace:^7.0.13",
 		"typescript": "^4.3.2"
 	},
 	"publishConfig": {
