@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 4.4.5
+
+### Patch Changes
+
+- version bump: run build
+
 ## 4.4.4
 
 ### Patch Changes
