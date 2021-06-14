@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.1
+
+### Patch Changes
+
+- version bump
+
 ## 5.0.0
 
 ### Major Changes
