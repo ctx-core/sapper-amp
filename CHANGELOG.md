@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.2
+
+### Patch Changes
+
+- remove npm run symlink
+
 ## 5.0.1
 
 ### Patch Changes
