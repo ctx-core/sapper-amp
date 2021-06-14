@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
 ## 4.4.7
 
 ### Patch Changes
