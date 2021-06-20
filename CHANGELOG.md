@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.7
+
+### Patch Changes
+
+- fix: npm run clean
+
 ## 5.0.6
 
 ### Patch Changes
