@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.10
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+
 ## 5.0.9
 
 ### Patch Changes
