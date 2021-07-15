@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.22
+
+### Patch Changes
+
+- 2a6971f80: fix: "type": "module"
+
 ## 5.0.21
 
 ### Patch Changes
