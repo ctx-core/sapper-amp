@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.24
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+
 ## 5.0.23
 
 ### Patch Changes
