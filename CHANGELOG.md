@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.27
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+
 ## 5.0.26
 
 ### Patch Changes
