@@ -1,5 +1,17 @@
 # @ctx-core/sapper-amp
 
+## 5.0.31
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+
+## 5.0.30
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+
 ## 5.0.29
 
 ### Patch Changes
