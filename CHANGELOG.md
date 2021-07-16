@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.26
+
+### Patch Changes
+
+- fix: index.cjs: module.exports = require('./index.js')
+
 ## 5.0.25
 
 ### Patch Changes
