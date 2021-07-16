@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.25
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+
 ## 5.0.24
 
 ### Patch Changes
