@@ -1,5 +1,12 @@
 # @ctx-core/sapper-amp
 
+## 5.0.36
+
+### Patch Changes
+
+- svelte: 3.40.0 -> 3.40.1
+- update dependencies
+
 ## 5.0.35
 
 ### Patch Changes
