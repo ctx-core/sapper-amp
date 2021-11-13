@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.84
+
+### Patch Changes
+
+- @swc/core: ^1.2.107 -> ^1.2.108
+
 ## 5.0.83
 
 ### Patch Changes
