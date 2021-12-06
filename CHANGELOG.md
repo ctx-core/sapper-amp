@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.92
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+
 ## 5.0.91
 
 ### Patch Changes
