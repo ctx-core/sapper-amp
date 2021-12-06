@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/sapper-amp",
-	"version": "5.0.90",
+	"version": "5.0.91",
 	"description": "@ctx-core Svelte Sapper with Google amp support",
 	"homepage": "https://github.com/ctx-core/sapper-amp#readme",
 	"type": "module",
@@ -25,7 +25,7 @@
 		"svelte": "3.44.2"
 	},
 	"devDependencies": {
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.81",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.83",
 		"@swc/cli": "^0.1.52",
 		"@swc/core": "^1.2.118",
 		"typescript": "next"
