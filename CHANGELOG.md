@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.93
+
+### Patch Changes
+
+- update dependencies
+
 ## 5.0.92
 
 ### Patch Changes
