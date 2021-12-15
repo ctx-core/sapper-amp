@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.96
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 5.0.95
 
 ### Patch Changes
