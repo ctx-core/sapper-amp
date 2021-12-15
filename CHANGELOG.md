@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.98
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 5.0.97
 
 ### Patch Changes
