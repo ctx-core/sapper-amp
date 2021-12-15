@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.99
+
+### Patch Changes
+
+- \*.d.ts export
+
 ## 5.0.98
 
 ### Patch Changes
