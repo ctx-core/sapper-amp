@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.102
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+
 ## 5.0.101
 
 ### Patch Changes
