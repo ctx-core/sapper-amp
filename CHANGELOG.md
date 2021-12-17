@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.101
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+
 ## 5.0.100
 
 ### Patch Changes
