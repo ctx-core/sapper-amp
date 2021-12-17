@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.103
+
+### Patch Changes
+
+- fix: error TS6059: \* is not under 'rootDir': package.json: types: ./dist/index.d.ts
+
 ## 5.0.102
 
 ### Patch Changes
