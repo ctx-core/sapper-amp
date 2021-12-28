@@ -4,20 +4,20 @@
 	"description": "@ctx-core Svelte Sapper with Google amp support",
 	"homepage": "https://github.com/ctx-core/sapper-amp#readme",
 	"type": "module",
-	"types": "./dist/index.d.ts",
+	"types": "./lib/index.d.ts",
 	"exports": {
 		".": {
-			"import": "./dist/index.js"
+			"import": "./lib/index.js"
 		},
 		"./package.json": "./package.json"
 	},
 	"scripts": {
 		"build": "npm run compile",
-		"clean": "rimraf dist && npm run clean:tsbuildinfo",
-		"clean:tsbuildinfo": "rm -f tsconfig.tsbuildinfo && rm -f dist/**/*.d.ts",
+		"clean": "rimraf lib && npm run clean:tsbuildinfo",
+		"clean:tsbuildinfo": "rm -f tsconfig.tsbuildinfo && rm -f lib/**/*.d.ts",
 		"compile": "npm run compile:source && npm run compile:declaration",
-		"compile:source": "swc src --out-dir dist --copy-files --source-maps --config-file .swcrc",
-		"compile:declaration": "npm run clean:tsbuildinfo && tsc --declaration --emitDeclarationOnly --declarationDir dist",
+		"compile:source": "swc src --out-dir lib --copy-files --source-maps --config-file .swcrc",
+		"compile:declaration": "npm run clean:tsbuildinfo && tsc --declaration --emitDeclarationOnly --declarationDir lib",
 		"exec": "$@",
 		"prepublishOnly": "npm run clean && npm run build"
 	},
@@ -37,7 +37,7 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"svelte": "./dist/index.js",
+	"svelte": "./lib/index.js",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ctx-core/sapper-amp.git"
