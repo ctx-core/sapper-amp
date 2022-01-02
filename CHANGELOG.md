@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.104
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 5.0.103
 
 ### Patch Changes
