@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.107
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 5.0.106
 
 ### Patch Changes
