@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.110
+
+### Patch Changes
+
+- package.json: exports: update
+
 ## 5.0.109
 
 ### Patch Changes
