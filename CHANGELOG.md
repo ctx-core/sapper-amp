@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.135
+
+### Patch Changes
+
+- rimraf: ^4.0.1 -> ^4.0.4
+
 ## 5.0.134
 
 ### Patch Changes
