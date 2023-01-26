@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.137
+
+### Patch Changes
+
+- tslib: ^2.4.1 -> ^2.5.0
+
 ## 5.0.136
 
 ### Patch Changes
