@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.0.138
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+
 ## 5.0.137
 
 ### Patch Changes
