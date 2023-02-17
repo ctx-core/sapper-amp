@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.1.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+
 ## 5.0.140
 
 ### Patch Changes
