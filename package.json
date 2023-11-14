@@ -1,11 +1,12 @@
 {
 	"name": "@ctx-core/sapper-amp",
-	"version": "5.2.2",
+	"version": "5.2.3",
 	"description": "@ctx-core Svelte Sapper with Google amp support",
 	"homepage": "https://github.com/ctx-core/sapper-amp#readme",
 	"type": "module",
 	"files": [
 		"*.d.ts",
+		"*.js",
 		"*.json",
 		"./Amp_Layout"
 	],
