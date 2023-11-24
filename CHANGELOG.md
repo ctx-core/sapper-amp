@@ -1,5 +1,11 @@
 # @ctx-core/sapper-amp
 
+## 5.2.10
+
+### Patch Changes
+
+- tsx: ^4.3.0 -> ^4.4.0
+
 ## 5.2.9
 
 ### Patch Changes
