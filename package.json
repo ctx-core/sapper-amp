@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/sapper-amp",
-	"version": "5.2.14",
+	"version": "5.2.15",
 	"description": "@ctx-core Svelte Sapper with Google amp support",
 	"homepage": "https://github.com/ctx-core/sapper-amp#readme",
 	"type": "module",
@@ -26,7 +26,7 @@
 		"test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"svelte": "^4.2.9"
+		"svelte": "^4.2.10"
 	},
 	"devDependencies": {
 		"c8": "^9.1.0",
