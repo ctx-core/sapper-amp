@@ -1,8 +1,29 @@
 {
 	"name": "@ctx-core/sapper-amp",
-	"version": "5.2.18",
+	"version": "5.2.19",
 	"description": "@ctx-core Svelte Sapper with Google amp support",
+	"keywords": [
+		"ctx-core",
+		"sveltejs",
+		"sapper",
+		"google",
+		"amp",
+		"google-amp"
+	],
 	"homepage": "https://github.com/ctx-core/sapper-amp#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/sapper-amp/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/sapper-amp.git"
+	},
+	"license": "Apache-2.0",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-sapper-amp@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
@@ -37,13 +58,6 @@
 	},
 	"publishConfig": {
 		"access": "public"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/sapper-amp.git"
-	},
-	"bugs": {
-		"url": "https://github.com/ctx-core/sapper-amp/issues"
 	},
 	"sideEffects": false
 }
