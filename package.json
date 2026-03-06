@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/sapper-amp",
-	"version": "5.2.27",
+	"version": "5.2.28",
 	"description": "@ctx-core Svelte Sapper with Google amp support",
 	"keywords": [
 		"ctx-core",
